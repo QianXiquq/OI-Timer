@@ -1,0 +1,4 @@
+﻿  timer.cpp
+C:\Users\Administrator\Desktop\testpro\test\test\timer.cpp(22,21): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\Administrator\Desktop\testpro\test\test\timer.cpp(156,18): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+  test.vcxproj -> C:\Users\Administrator\Desktop\testpro\test\x64\Debug\test.exe
